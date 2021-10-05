@@ -1,0 +1,35 @@
+470944935
+
+https://telequest-my.sharepoint.com/:u:/r/personal/telequest_telequest_onmicrosoft_com/_layouts/15/doc2.aspx?sourcedoc=%7B0044503F-9DF0-470F-8428-45126022FA55%7D&file=Modular_PROD_NGI_1688_CallFlow%2002%20JUN%202021%20-%20v1.76.3.vsdx&action=default&mobileredirect=true&wdNewAndOpenCt=1628938652774&ct=1628938652774&wdPreviousSession=ef5dc165-10e7-4375-b79b-036bfcf1c904&wdOrigin=OFFICECOM-WEB.START.UPLOAD&cid=34525bd2-7eeb-4cda-aee4-534b394a96f1
+
+https://lab.singtel.tetherfi.cloud:35443/IWUI#
+
+
+
+
+Ticket Raised with Verizon - INC006451207
+
+
+gkTQS@6969
+
+
+Quick setup — if you’ve done this kind of thing before
+or	
+https://github.com/gktqs/tqssingtel.git
+Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
+…or create a new repository on the command line
+echo "# tqssingtel" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gktqs/tqssingtel.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/gktqs/tqssingtel.git
+git branch -M main
+git push -u origin main
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
